@@ -1,0 +1,50 @@
+VERSION #{N}          # Targeted Version is "3" only #
+#
+# header
+#
+
+                       #  Ignored in this library #
+
+############################################################################
+#
+# Display Categories:
+#
+CATEGORY 0 "IGNORE" "IGNORE"
+CATEGORY 1 "LOGONLY" "LOGONLY"
+
+                       #  Ignored in this library #
+
+############################################################################
+#
+# Operator-initiated (manual) Actions:
+#
+
+ACTION ~
+
+                       #  Ignored in this library #
+
+
+############################################################################
+#
+# Enterprises:
+#
+
+OID_ALIAS ENTERPRISES .1.3.6.1.4.1
+OID_ALIAS OpenView .1.3.6.1.4.1.11.2.17.1
+~
+                       #  Ignored in this library #
+
+############################################################################
+#
+# Event formats and actions:
+#
+#
+#
+
+EVENT #{EventName} #{OID} "#{}" #{Status}
+FORMAT # Display on the alarm browser #
+FORWARD # forward to other NNMs
+NODES # Nodes(hostname or IPAddr) separated space #
+SDESC
+                       #  Text allowed multiline #
+EDESC
