@@ -1,9 +1,12 @@
-README.rdoc
+README.md
 COPYING
 Manifest.txt
 Rakefile
+Gemfile
+nnm_event_summarizer.gemspec
 History.txt
 lib/nnm_event_summarizer.rb
+lib/nnm_event_summarizer/version.rb
 lib/nnm_event_summarizer/csvformatter.rb
 lib/nnm_event_summarizer/csvformatter/oneline.rb
 lib/nnm_event_summarizer/csvformatter/originaly.rb
@@ -13,5 +16,5 @@ lib/networknodemanager/event/entry.rb
 lib/networknodemanager/event/entry/parser.rb
 lib/networknodemanager/event/entry/singletonclass.rb
 bin/nnm_event_summarizer
-dspec/dspec.rb
+declaration/declare_parse_entry.rb
 note/structure_trapd.conf.txt
