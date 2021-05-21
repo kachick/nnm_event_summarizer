@@ -1,7 +1,9 @@
 nnm_event_summarizer
 =====================
 
-[![Build Status](https://secure.travis-ci.org/kachick/nnm_event_summarizer.png)](http://travis-ci.org/kachick/nnm_event_summarizer)
+* ***This repository is archived***
+* ***No longer maintained***
+* ***All versions have been yanked from https://rubygems.org/ for releasing valuable namespace for others***
 
 Description
 ------------
@@ -33,22 +35,6 @@ Requirements
 
 * Ruby 1.9.2 or later [MRI/YARV, Rubinius, JRuby](http://travis-ci.org/#!/kachick/nnm_event_summarizer)
 * stiruct - 0.3.0
-
-Installation
--------------
-
-```shell
-$ gem install nnm_event_summarizer
-```
-
-Link
-----
-
-* [code](https://github.com/kachick/nnm_event_summarizer)
-* [issues](https://github.com/kachick/nnm_event_summarizer/issues)
-* [CI](http://travis-ci.org/#!/kachick/nnm_event_summarizer)
-* [gem](https://rubygems.org/gems/nnm_event_summarizer)
-* [gem+](http://metagem.info/gems/nnm_event_summarizer)
 
 License
 -------
